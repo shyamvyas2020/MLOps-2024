@@ -1,0 +1,3 @@
+This is my first file for MLOps assignment.
+I am using this file for explaining MLOps assignment stepwise.
+This file will be used to show step changes with GIT commands.
